@@ -1,1 +1,3 @@
-# appdev iso & andro
+# appdev using react native\
+
+npm err! :'(
