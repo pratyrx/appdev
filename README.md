@@ -1,3 +1,1 @@
-# appdev using react native\
-
-npm err! :'(
+# appdev
