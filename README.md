@@ -1,4 +1,4 @@
-# xxx UI APP
+# Fitness UI APP
 This app was created using flutter
 
 # SCREENSHOTS
