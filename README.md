@@ -1,9 +1,9 @@
 # xxx APP UI
 This app was created using flutter
 
-#SCREENSHOTS
+# SCREENSHOTS
 
 
 
-#PLATFORMS
+# PLATFORMS
 ISO, ANDROID & WEB
