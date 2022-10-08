@@ -6,4 +6,4 @@ This app was created using flutter
 
 
 # PLATFORMS
-ISO, ANDROID & WEB
+IOS, ANDROID & WEB
