@@ -3,11 +3,7 @@ This app was created using flutter
 
 # SCREENSHOTS
 
-![0](https://user-images.githubusercontent.com/100375001/194689480-b65ef24a-5cc5-4fed-9168-c022aab8a292.png)
-
-![2](https://user-images.githubusercontent.com/100375001/194689246-a7506123-ccbd-459b-b78b-2df7f48b4688.png)
-
-
+![Picsart_22-10-08_10-53-36-707](https://user-images.githubusercontent.com/100375001/194690180-9114fddb-862e-4ae1-a39b-e1911c0a471a.jpg)
 
 # PLATFORMS
 IOS, ANDROID & WEB
