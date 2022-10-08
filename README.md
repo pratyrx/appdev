@@ -1,4 +1,4 @@
-# xxx APP UI
+# xxx UI APP
 This app was created using flutter
 
 # SCREENSHOTS
