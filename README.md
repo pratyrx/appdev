@@ -8,3 +8,4 @@ This app was created using flutter
 # OTHER FEATURES
 
 dark theme soon :'( 
+privacy denai mai maa chud rahi hai kya
