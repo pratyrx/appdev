@@ -1,4 +1,4 @@
-# Fitness APP
+# Fitness APP with WHO Support
 This app was created using flutter
 
 # SCREENSHOTS
