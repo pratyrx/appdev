@@ -3,8 +3,7 @@
 
 # SCREENSHOTS
 
-![001](https://user-images.githubusercontent.com/100375001/194849379-8ad343f7-c0cc-4673-aac2-68d93428cdf6.jpg)
-
+![01](https://user-images.githubusercontent.com/100375001/195172094-e0bcc0f8-b8a4-4cf0-8a66-1bdc1b910c76.jpg)
 
 # OTHER FEATURES
 
